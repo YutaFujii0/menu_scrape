@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gem "better_errors"
+gem "binding_of_caller"
+gem "faker"
+gem "json"
+gem "nokogiri"
+gem "open_uri_redirections"
+gem "pry-byebug"
+gem "sinatra"
+gem "sinatra-contrib"
+gem "rest-client"
