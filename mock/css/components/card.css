@@ -1,0 +1,23 @@
+.card {
+  background-color: white;
+  border-radius: 2px;
+  border: 1px solid #cccccc;
+  box-shadow: 0.5px 0.5px 3px #c7c7c7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 5px 5px 20px;
+  margin: 4px 15px;
+  height: 150px;
+}
+
+.card h2 {
+  font-size: 24px;
+  margin: 0;
+  color: rgb(20, 20, 20);
+}
+
+.card-images {
+  width: 150px;
+
+}
