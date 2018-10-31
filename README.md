@@ -1,7 +1,7 @@
-## Project LeWagon #187
+## Project LW187
 
 title: Menu Visualizer(TBD)
-team: Arif, Key, Raymond, Yuta
+team: A.I, K.H, R.C, Y.F
 
 
 ## Target / Pain / Solution / Originality
@@ -63,27 +63,27 @@ team: Arif, Key, Raymond, Yuta
 
 ## Models & Methods
   Visualize
-    Scan/Compose
-    - receive a picture
-    - send it to Google API (OCR)
-    - receive JSON file
-    - retrieve string array
-    Search image
-    - for each element(word), give it to Google API (Search)
-    - receive JSON file
-    - (TBC)retrieve image path
-    Create view
-    - create cards of menu
-    - show it to user
+  Scan/Compose
+  - receive a picture
+  - send it to [Google API (OCR)](https://cloud.google.com/translate/docs/)
+  - receive JSON file
+  - retrieve string array
+  Search image
+  - for each element(word), give it to [Google API (Search)](https://developers.google.com/custom-search/v1/overview)
+  - receive JSON file
+  - (TBC)retrieve image path
+  Create view
+  - create cards of menu
+  - show it to user
 
   Sign in
-    - input data
-    - validate
-    - accept
+  - input data
+  - validate
+  - accept
 
   Wish list
-    - Visualize
-    - swipe card to wish list (like as email delete in iPhone)
+  - Visualize
+  - swipe card to wish list (like as email delete in iPhone)
 
 
   <!-- To Be Discussed -->
