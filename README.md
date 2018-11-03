@@ -94,8 +94,8 @@ team: A.I, K.H, R.C, Y.F
 ## Business issues
 
 X. 2-word expression, value proposition
-  - visualize menu
-  - (TBD)
+  - visualize a menu
+  - eat like a local
 
 X. Concept / Branding
 
@@ -118,6 +118,14 @@ X. Issues / Expected questions
   - Can you use pictures without rights to use? Is it legitmate?
     -> Only if it's not for commercial purpose?
 
+
+## API usage
+
+  _Google Cloud Vision API
+
+  1. Create google cloud vision api account
+  2. Set up([google - Quickstart: Using Client Libraries](https://cloud.google.com/vision/docs/quickstart-client-libraries))
+  3. Run ruby code in your .rb file([google - Text detection samples](https://cloud.google.com/vision/docs/detecting-text#vision-text-detection-ruby))
 
 
 
