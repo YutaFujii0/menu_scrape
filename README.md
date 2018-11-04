@@ -119,7 +119,7 @@ X. Issues / Expected questions
     -> Only if it's not for commercial purpose?
 
 
-## API usage
+## API usage(moving to another file..)
 
   _Google Cloud Vision API
 
