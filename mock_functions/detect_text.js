@@ -9,8 +9,8 @@ const fs = require('fs');
 const client = new vision.ImageAnnotatorClient();
 
 // set file path
-const uri = `/Users/yutafujii/code/YutaFujii0/menu_scrape/images/japanese_menu.jpg`;
-const filePath = `/Users/yutafujii/code/YutaFujii0/menu_scrape/data/japanese_menu.json`;
+const uri = `../images/japanese_menu.jpg`;
+const filePath = `../data/japanese_menu.json`;
 
 const request = {
   image: {
