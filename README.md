@@ -116,7 +116,7 @@ X. Monetization / Market volume
 
 X. Issues / Expected questions
   - Can you use pictures without rights to use? Is it legitmate?
-    -> Only if it's not for commercial purpose?
+    ->We don't discuss this is legal matter, but it may be useful to see [Copyright Act of Japan](http://www.japaneselawtranslation.go.jp/law/detail_main?vm=&id=1980)
 
 
 ## API usage(moving to another file..)
