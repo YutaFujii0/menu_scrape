@@ -8,6 +8,7 @@
       "title title"
       "sidemenu main"
       "footer footer";
+  grid-gap: 5px;
 }
 
 .title {
